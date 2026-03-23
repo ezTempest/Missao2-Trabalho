@@ -1,0 +1,14 @@
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\bin\Debug\net10.0\Missao2-App.exe
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\bin\Debug\net10.0\Missao2-App.deps.json
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\bin\Debug\net10.0\Missao2-App.runtimeconfig.json
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\bin\Debug\net10.0\Missao2-App.dll
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\bin\Debug\net10.0\Missao2-App.pdb
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\obj\Debug\net10.0\Missao2-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\obj\Debug\net10.0\Missao2-App.AssemblyInfoInputs.cache
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\obj\Debug\net10.0\Missao2-App.AssemblyInfo.cs
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\obj\Debug\net10.0\Missao2-App.csproj.CoreCompileInputs.cache
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\obj\Debug\net10.0\Missao2-App.dll
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\obj\Debug\net10.0\refint\Missao2-App.dll
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\obj\Debug\net10.0\Missao2-App.pdb
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\obj\Debug\net10.0\Missao2-App.genruntimeconfig.cache
+C:\Users\enzos\Missao2-Trabalho\Missao2-App\obj\Debug\net10.0\ref\Missao2-App.dll

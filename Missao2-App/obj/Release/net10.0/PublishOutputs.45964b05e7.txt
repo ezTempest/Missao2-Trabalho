@@ -1,0 +1,5 @@
+c:\Users\enzos\Missao2-Trabalho\Missao2-App\bin\Release\net10.0\publish\Missao2-App.exe
+c:\Users\enzos\Missao2-Trabalho\Missao2-App\bin\Release\net10.0\publish\Missao2-App.dll
+c:\Users\enzos\Missao2-Trabalho\Missao2-App\bin\Release\net10.0\publish\Missao2-App.deps.json
+c:\Users\enzos\Missao2-Trabalho\Missao2-App\bin\Release\net10.0\publish\Missao2-App.runtimeconfig.json
+c:\Users\enzos\Missao2-Trabalho\Missao2-App\bin\Release\net10.0\publish\Missao2-App.pdb
